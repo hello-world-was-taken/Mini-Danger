@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 119894d3f8b41c948bb2f77115f1a535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Project - Drawing 15278409804218722305_0
+  - first:
+      213: 21300002
+    second: Project - Drawing 15278409804218722305_1
+  - first:
+      213: 21300004
+    second: Project - Drawing 15278409804218722305_2
+  - first:
+      213: 21300006
+    second: Project - Drawing 15278409804218722305_3
+  - first:
+      213: 21300008
+    second: Project - Drawing 15278409804218722305_4
+  - first:
+      213: 21300010
+    second: Project - Drawing 15278409804218722305_5
+  - first:
+      213: 21300012
+    second: Project - Drawing 15278409804218722305_6
+  - first:
+      213: 21300014
+    second: Project - Drawing 15278409804218722305_7
+  - first:
+      213: 21300016
+    second: Project - Drawing 15278409804218722305_8
+  - first:
+      213: 21300018
+    second: Project - Drawing 15278409804218722305_9
+  - first:
+      213: 21300020
+    second: Project - Drawing 15278409804218722305_10
+  - first:
+      213: 21300022
+    second: Project - Drawing 15278409804218722305_11
+  - first:
+      213: 21300024
+    second: Project - Drawing 15278409804218722305_12
+  - first:
+      213: 21300026
+    second: Project - Drawing 15278409804218722305_13
+  - first:
+      213: 21300028
+    second: Project - Drawing 15278409804218722305_14
+  - first:
+      213: 21300030
+    second: Project - Drawing 15278409804218722305_15
+  - first:
+      213: 21300032
+    second: Project - Drawing 15278409804218722305_16
+  - first:
+      213: 21300034
+    second: Project - Drawing 15278409804218722305_17
+  - first:
+      213: 21300036
+    second: Project - Drawing 15278409804218722305_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1071
+        width: 86
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1fe3982bafb8b4db6089c541ee77fa
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1071
+        width: 81
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4fc8a95c6be345b5d905e020993e9
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1088
+        width: 86
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e04408363d37b4ca32833db3b84f8a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1111
+        width: 78
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611774d02fff9d6418328867fc6d2519
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1072
+        width: 66
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d17face54ae342bdeb88e92d94f78
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_5
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1091
+        width: 78
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810cea9dbab84f4bbeafa4063d677f7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_6
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1092
+        width: 67
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01528416341db0241966ac3abb5505b9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_7
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1110
+        width: 75
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4e567ebe3ac248b554dd16f7dadc1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_8
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1081
+        width: 68
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2468ee346d8eb1a49a46a213a77fd729
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 782
+        width: 74
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4774b7350a21a5645b430389e085a827
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 771
+        width: 147
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92336d90b58a4c478a94cf949a2433c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 816
+        width: 117
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2af5fede17734c9eb7d20af21accf
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 792
+        width: 112
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca22b3dc7978994abe9b454b7b69fba
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 809
+        width: 133
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01101ffc23ded48b198e35b4cf58db
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_14
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 807
+        width: 135
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99dd7f50949d44082ee6c6e6ca6da0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_15
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 779
+        width: 128
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366a57db61163642995b03389b23e91
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_16
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 777
+        width: 103
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f34284b1991654dad35edaabdd8d23
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_17
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 790
+        width: 99
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3baf680785ee4e9b7b6ada856fd84
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project - Drawing 15278409804218722305_18
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 391
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e63d080ed1b54d8e0f4c4a9e70a6c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 956d566eca57eba46920145c32614587
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
